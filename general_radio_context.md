@@ -54,30 +54,30 @@ This is my context file, please read this first.
 ### Airband Zone — Programmed Frequencies
 
 #### General Aviation (National)
-| MHz | Hz Format | Description |
-|-----|-----------|-------------|
-| 121.500 | 12150000 | Civil Emergency / Guard |
-| 122.900 | 12290000 | Multicom — CTAF (no tower/UNICOM) |
-| 122.950 | 12295000 | UNICOM at towered airports (FBO) |
-| 122.750 | 12275000 | Air-to-Air |
-| 122.850 | 12285000 | Air-to-Air Chat 1 |
-| 123.450 | 12345000 | Air-to-Air Chat 2 |
-| 123.025 | 12302500 | Helicopter common |
-| 123.100 | 12310000 | Search & Rescue / Civil Air Patrol |
+| MHz | Description |
+|-----|-------------|
+| 121.500 | Civil Emergency / Guard |
+| 122.900 | Multicom — CTAF (no tower/UNICOM) |
+| 122.950 | UNICOM at towered airports (FBO) |
+| 122.750 | Air-to-Air |
+| 122.850 | Air-to-Air Chat 1 |
+| 123.450 | Air-to-Air Chat 2 |
+| 123.025 | Helicopter common |
+| 123.100 | Search & Rescue / Civil Air Patrol |
 
 #### Tulsa Area — Local Frequencies
-| MHz | Hz Format | Description |
-|-----|-----------|-------------|
-| 126.500 | 12650000 | KRVS (Riverside) ATIS |
-| 121.700 | 12170000 | KRVS Ground Control |
-| 120.300 | 12030000 | KRVS Tower (primary) |
-| 119.200 | 11920000 | KRVS Tower (secondary — when advised) |
-| 124.500 | 12450000 | KRVS Clearance Delivery |
-| 119.850 | 11985000 | Tulsa Approach/Departure (N/E sector) |
-| 134.700 | 13470000 | Tulsa Approach/Departure (S/W sector — home side) |
-| 124.900 | 12490000 | KTUL (Tulsa Intl) ATIS |
-| 118.700 | 11870000 | KTUL Tower (Rwy 18R/36L) |
-| 121.900 | 12190000 | KTUL Ground |
+| MHz | Description |
+|-----|-------------|
+| 126.500 | KRVS (Riverside) ATIS |
+| 121.700 | KRVS Ground Control |
+| 120.300 | KRVS Tower (primary) |
+| 119.200 | KRVS Tower (secondary — when advised) |
+| 124.500 | KRVS Clearance Delivery |
+| 119.850 | Tulsa Approach/Departure (N/E sector) |
+| 134.700 | Tulsa Approach/Departure (S/W sector — home side) |
+| 124.900 | KTUL (Tulsa Intl) ATIS |
+| 118.700 | KTUL Tower (Rwy 18R/36L) |
+| 121.900 | KTUL Ground |
 
 ---
 
