@@ -154,6 +154,11 @@ config-only fix.
 No decision has been made yet on which path to pursue for the COM port issue — this was
 intentionally paused to go look at the QDMR angle instead.
 
+**Update 2026-08-15:** The QDMR angle (option 4) worked. See `maverick_qdmr_support.md` — a
+custom QDMR fork now detects and reads the Maverick natively over Linux USB/serial, sidestepping
+this Wine PnP problem entirely for the read side. Writing to the radio via QDMR has not been
+tested yet.
+
 ---
 
 *Generated with Claude (Claude Code) during a live troubleshooting session — 2026-08-15.*
